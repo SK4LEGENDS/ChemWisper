@@ -38,7 +38,7 @@ ChemWisper Bot is a UiPath automation that uses Gemini AI to generate human-frie
 
 ## 📸 Images & Video
 
-- ![UiPath Process](Images/Main Sequence.png)  
+- ![UiPath Process](Images/Main Sequence.jpg)
   *Screenshot of the UiPath workflow*
 
 - ![Postman API Test](images/postman-test.png)  
